@@ -39,7 +39,7 @@ restart()
 
 restart_name()
 {
-	#ÈİÆ÷Ãû
+	#å®¹å™¨å
 	CONTAINER_ID_R=$1
 	echo "${CONTAINER_ID_R} stoping ..."
 	docker container stop ${CONTAINER_ID_R}
